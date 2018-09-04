@@ -11,17 +11,6 @@
                </table>
            </div>
            
-           <div id="contenedor-footer">
-<div id="right">
-<div id="right">Redes Sociales</div>
-<a href="https://www.facebook.com/pages/ESHablife/100504550295621" class="icofb" target="_blank">
-<div id="icofb"></div>
-<a href="https://twitter.com/ESHablife" class="icotw" target="_blank">
-<div id="icotw"></div>
-<a href="https://www.youtube.com/ESHablife" class="icoyt" target="_blank">
-<div id="icoyt"></div>
-<div id="footer-texto1"><a href="#">Términos y Condiciones</a> / <a href="#">Equipo</a> / <a href="#">Vacantes</a> / <a href="#">Contacto</a> / <a href="#">Manera Habbo</a></div>
-           
            <div id="small">
                <h1 class="titulo_fb">Siguenos en Facebook</h1>
                <div id="fb-root"></div>
