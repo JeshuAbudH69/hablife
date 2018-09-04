@@ -11,7 +11,7 @@
 	//Adjuntamos el archivo para header
 	require 'kernel/headers.php';
 	//Adjuntamos nuestro core
-  	require 'kernel/includes/core.tpl';
+  	require 'anotherdata/core.tpl';
 	//Sesión grabada para las IDS de usuarios
 	$USERID = $_SESSION['ID'];
 	//Developed by RicardoMarin
